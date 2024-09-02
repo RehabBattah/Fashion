@@ -1,0 +1,81 @@
+<div class="img-dots d-flex align-items-center position-absolute ">
+                        <div>
+                            <p class="bg-success dot"></p>
+                            <p class="bg-success dot"></p>
+                            <p class="bg-success dot"></p>
+                            <p class="bg-success dot"></p>
+                        </div>
+                        <div>
+                            <p class="bg-success dot"></p>
+                            <p class="bg-success dot"></p>
+                            <p class="bg-success dot"></p>
+                            <p class="bg-success dot"></p>
+                        </div>
+                        <div>
+                            <p class="bg-success dot"></p>
+                            <p class="bg-success dot"></p>
+                            <p class="bg-success dot"></p>
+                            <p class="bg-success dot"></p>
+                        </div>
+                        <div>
+                            <p class="bg-success dot"></p>
+                            <p class="bg-success dot"></p>
+                            <p class="bg-success dot"></p>
+                            <p class="bg-success dot"></p>
+                        </div>
+                    </div>
+
+
+
+<div class="img-dots1 d-flex align-items-center position-absolute ">
+                        <div >
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot  "></p>
+                        </div>
+                        <div >
+                            <p class="bg-success dot  "></p>
+                            <p class="bg-success dot  "></p>
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot  "></p>
+                        </div>
+                        <div >
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot  "></p>
+                            <p class="bg-success dot  "></p>
+                            <p class="bg-success dot   "></p>
+                        </div>
+                        <div >
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot  "></p>
+                            <p class="bg-success dot  "></p>
+                            <p class="bg-success dot "></p>
+                        </div>
+                    </div>
+                    <div class="img-dots2  d-flex align-items-center position-absolute ">
+                        <div >
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot  "></p>
+                            <p class="bg-success dot "></p>
+                        </div>
+                        <div >
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot "></p>
+                        </div>
+                        <div >
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot "></p>
+                        </div>
+                        <div >
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot "></p>
+                            <p class="bg-success dot "></p>
+                        </div>
+                    </div>
